@@ -1,7 +1,7 @@
 {
   "name": "Drop",
   "about": "Образец оформления репозитория проекта",
-  "version": "50117",
+  "version": "50122",
   "notes": "Исправлены мелкие баги",
   "builds": [
     {
@@ -17,7 +17,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://flinn7.ru/esp32/firmware.bin",
+          "path": "https://github.com/FLINN-AWI/ESP32/blob/main/drop.json/firmware.bin",
           "offset": 0
         }
       ]
